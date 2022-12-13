@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Vroom Car",
+        "projects_id": "0001",
+        "img1": "https://i.ibb.co/qMWFZvQ/Screenshot-14.png",
+        "img2": "https://i.ibb.co/5LN50db/Screenshot-11.png",
+        "img3": "https://i.ibb.co/ZBL2szg/Screenshot-16.png",
+        "img4": "https://i.ibb.co/p157CKv/Screenshot-13.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://assignment-no-12-57281.web.app/",
+        "client_site_link": "https://github.com/rajutalukdar1/Vroom_Car_Cliet",
+        "server_site_link": "https://github.com/rajutalukdar1/Vroom_Car_Server"
+    },
+    {
+        "name": "EduSphere",
+        "projects_id": "0002",
+        "img1": "https://i.ibb.co/XX7FFcn/Screenshot-18.png",
+        "img2": "https://i.ibb.co/LQj4M4m/Screenshot-19.png",
+        "img3": "https://i.ibb.co/fSLWHYc/Screenshot-17.png",
+        "img4": "https://i.ibb.co/1mCqr4K/Screenshot-11.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://assignment-no-11-f2bd1.web.app/",
+        "client_site_link": "https://github.com/rajutalukdar1/EduSphere_Client",
+        "server_site_link": "https://github.com/rajutalukdar1/EduSphere_Server"
+    },
+    {
+        "name": "Career It",
+        "projects_id": "0003",
+        "img1": "https://i.ibb.co/zN2n5TM/Screenshot-20.png",
+        "img2": "https://i.ibb.co/1TCQfL1/Screenshot-21.png",
+        "img3": "https://i.ibb.co/54xgSCd/Screenshot-22.png",
+        "img4": "https://i.ibb.co/yf2ptRP/Screenshot-11.png",
+        "details": [
+            "This website is almost like bikroy.com",
+            "A user can sign up as a buyer and seller on this website.",
+            "Other way this website has a payment gateway system.",
+            "This website has an Admin panel the admin can delete any buyers and sellers if he wants.",
+            "A sellers advertise this product"
+        ],
+        "live_site_link": "https://assignment-no-10-b385a.web.app/",
+        "client_site_link": "https://github.com/rajutalukdar1/Career_IT_Client",
+        "server_site_link": "https://github.com/rajutalukdar1/Career_IT_Server"
+    }
+]
