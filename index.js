@@ -1,6 +1,7 @@
 const express = require('express');
-const app = express();
 const cors = require('cors');
+
+const app = express();
 const port = process.env.PORT || 5000;
 
 
@@ -8,6 +9,7 @@ const projectsDetails = require('./data/projectsDetails.json');
 
 // * middleware
 app.use(cors());
+app.use(express.json())
 
 
 app.get('/project/:id', (req, res) => {
